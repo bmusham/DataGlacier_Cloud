@@ -1,15 +1,10 @@
 ML Model deployment on Cloud
 
-1. Select any toy data (simple data) ( You are allowed to use data set of week 4)
+Machine learning model deployment on Flask
 
-2. Save the model ( You are allowed to use model of week 4)
+This code deploys a machine learning model on Flask. This model predicts the sales based on money spent on advertising costs for TV, Radio and Newspaper. Creates a Flask web application to take marketing costs as input and predicts sales. 
 
-3. Deploy the model on any cloud eg: Heroku,AWS,GCP,Azure (Deployment should be API based as well as web app)
+Then deployment this ML model on Heroku.
 
-4. Create pdf document (Name, Batch code, Submission date, Submitted to ) which should contain snapshot of each step of deployment)
+Heroku URL: https://ml-model-application.herokuapp.com/
 
-5. Upload the document and code to Github
-
-6. Submit the URL of the uploaded document.
-
-Use free credits(trial or student account) of AWS, GCP, Azure to deploy the app.
